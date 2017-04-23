@@ -1,0 +1,9 @@
+pip install pyinstaller
+
+生成.exe文件
+执行命令：pyinstaller -F password.py ；执行完后你就会在同文件夹下看到新生成的三个东西：
+spec文件：此文件无用，也可以删除。
+dist文件夹：此文件夹下有你想要的.exe文件，可以直接在命令框执行
+build文件夹：此文件夹无用，可以删除。
+上述执行命令中的参数“-F”是指制作独立可执行程序.
+如果不加这个参数，pyinstaller会把所有依赖文件抽取出来，放在dist文件夹内
