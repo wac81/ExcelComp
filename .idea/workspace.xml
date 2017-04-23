@@ -2,30 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f33690-61f6-434b-abc1-d207c66891db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2102424_bjop.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2102425_bjop.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2102426_bjop.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2102427_bjop.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2102428_bjop.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2102429_bjop.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2102430_bjop.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2102431_bjop.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2102432_bjop.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2102433_bjop.xls" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/云达不来梅VS门兴格拉德巴赫(德甲)欧洲数据.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/勒沃库森VS霍芬海姆(德甲)欧洲数据.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/奥格斯堡VS汉诺威96(德甲)欧洲数据.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/弗赖堡VS拜仁慕尼黑(德甲)欧洲数据.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/斯图加特VS汉堡(德甲)欧洲数据.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/柏林赫塔VS法兰克福(德甲)欧洲数据.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/沃尔夫斯堡VS多特蒙德(德甲)欧洲数据.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/美因茨VS科隆(德甲)欧洲数据.xlsx" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExcelComp.db" afterPath="$PROJECT_DIR$/ExcelComp.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ExcelComp.iml" afterPath="$PROJECT_DIR$/.idea/ExcelComp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backup_xls_2015/云达不来梅VS门兴格拉德巴赫(德甲)欧洲数据.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backup_xls_2015/勒沃库森VS霍芬海姆(德甲)欧洲数据.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backup_xls_2015/奥格斯堡VS汉诺威96(德甲)欧洲数据.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backup_xls_2015/弗赖堡VS拜仁慕尼黑(德甲)欧洲数据.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backup_xls_2015/斯图加特VS汉堡(德甲)欧洲数据.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backup_xls_2015/柏林赫塔VS法兰克福(德甲)欧洲数据.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backup_xls_2015/沃尔夫斯堡VS多特蒙德(德甲)欧洲数据.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backup_xls_2015/美因茨VS科隆(德甲)欧洲数据.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExcelComp.py" afterPath="$PROJECT_DIR$/ExcelComp.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExcelComp.txt" afterPath="$PROJECT_DIR$/ExcelComp.txt" />
     </list>
     <ignored path="ExcelComp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,11 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExcelComp.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExcelComp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ExcelComp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="38" column="51" lean-forward="true" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+            <state relative-caret-position="684">
+              <caret line="38" column="51" lean-forward="false" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
               <folding>
                 <element signature="e#63#74#0" expanded="true" />
                 <marker date="1492954134653" expanded="true" signature="247:277" ph="DROP TABLE I... " />
@@ -69,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExcelComp.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ExcelComp.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ExcelComp.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="144">
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -108,8 +93,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="342" />
-    <option name="y" value="140" />
+    <option name="x" value="2133" />
+    <option name="y" value="183" />
     <option name="width" value="1578" />
     <option name="height" value="1000" />
   </component>
@@ -129,6 +114,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -142,9 +128,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExcelComp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExcelComp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backup_xls_2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -422,6 +421,14 @@
       <option name="presentableId" value="Default" />
       <updated>1433668066806</updated>
     </task>
+    <task id="LOCAL-00001" summary="2016 xls update">
+      <created>1492954681255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1492954681255</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -434,10 +441,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="342" y="140" width="1578" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="2133" y="183" width="1578" height="1000" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2643229" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26757812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -472,6 +479,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2016 xls update" />
+    <option name="LAST_COMMIT_MESSAGE" value="2016 xls update" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <default-breakpoints>
@@ -498,6 +509,32 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ExcelComp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="51" lean-forward="true" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+          <folding>
+            <element signature="e#63#74#0" expanded="true" />
+            <marker date="1492954134653" expanded="true" signature="247:277" ph="DROP TABLE I... " />
+            <marker date="1492954134653" expanded="true" signature="296:330" ph="DROP TABLE I... " />
+            <marker date="1492954134653" expanded="true" signature="349:512" ph="CREATE TABLE... ExcelComp" />
+            <marker date="1492954134653" expanded="true" signature="531:698" ph="CREATE TABLE... ExcelTempData" />
+            <marker date="1492954134653" expanded="true" signature="1307:1402" ph="INSERT INTO ExcelComp... " />
+            <marker date="1492954134653" expanded="true" signature="1537:1634" ph="SELECT file_... ExcelComp" />
+            <marker date="1492954134653" expanded="true" signature="2347:2446" ph="INSERT INTO ExcelTempData... " />
+            <marker date="1492954134653" expanded="true" signature="2660:2758" ph="select file_... ExcelTempData" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExcelComp.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ExcelComp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -773,18 +810,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExcelComp.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExcelComp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="38" column="51" lean-forward="true" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+        <state relative-caret-position="684">
+          <caret line="38" column="51" lean-forward="false" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
           <folding>
             <element signature="e#63#74#0" expanded="true" />
             <marker date="1492954134653" expanded="true" signature="247:277" ph="DROP TABLE I... " />
@@ -796,6 +825,14 @@
             <marker date="1492954134653" expanded="true" signature="2347:2446" ph="INSERT INTO ExcelTempData... " />
             <marker date="1492954134653" expanded="true" signature="2660:2758" ph="select file_... ExcelTempData" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExcelComp.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
