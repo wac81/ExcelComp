@@ -1,5 +1,6 @@
-#!/usr/bin/python
 # -*- coding: utf_8 -*-
+#!/usr/bin/python
+
 
 __author__ = '岸城'
 
@@ -23,19 +24,21 @@ cursor.execute('CREATE TABLE ExcelTempData (id INTEGER PRIMARY KEY, file_name va
 # 打开 device 输入 Excel 文件
 
 for filename in glob.glob(r'*.xls*'):
-    print filename
+
     device_workbook = xlrd.open_workbook(filename)
     for worksheet_name in device_workbook.sheet_names():
         device_sheet = device_workbook.sheet_by_name(worksheet_name)
 
     #读出xls内容并写数据库
-    for row in range(6, device_sheet.nrows):
-       company_name = device_sheet.cell(row, 0).value
-       odds_win = device_sheet.cell(row, 11).value
-       odds_equal = device_sheet.cell(row, 12).value
-       odds_lose = device_sheet.cell(row, 13).value
-       cursor.execute('INSERT INTO ExcelComp (file_name,company_name,odds_win,odds_equal,odds_lose) VALUES (?,?,?,?,?)',
-                      (filename.decode('gbk').encode("utf-8"),company_name,odds_win,odds_equal,odds_lose))
+    filename = device_sheet.cell(0, 0).value
+    print filename
+    for row in range(10, device_sheet.nrows):
+        company_name = device_sheet.cell(row, 1).value
+        odds_win = device_sheet.cell(row, 2).value
+        odds_equal = device_sheet.cell(row, 3).value
+        odds_lose = device_sheet.cell(row, 4).value
+        cursor.execute('INSERT INTO ExcelComp (file_name,company_name,odds_win,odds_equal,odds_lose) VALUES (?,?,?,?,?)',
+                      (filename,company_name,odds_win,odds_equal,odds_lose))
 
     ExcelComp_db.commit()
 
